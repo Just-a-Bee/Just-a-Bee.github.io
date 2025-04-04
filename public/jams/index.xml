@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jams on </title>
+    <link>//localhost:1313/jams/</link>
+    <description>Recent content in Jams on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 11:43:37 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/jams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bigfoots Big Break</title>
+      <link>//localhost:1313/jams/bigfoots-big-break/</link>
+      <pubDate>Wed, 15 Jan 2025 11:43:37 +0100</pubDate>
+      <guid>//localhost:1313/jams/bigfoots-big-break/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Bigfoot&amp;rsquo;s Big Break was made in three days for the GoedWare Game Jam Limited Color Palette in January 2025.&lt;/p&gt;&#xA;&lt;p&gt;Based on the theme &amp;ldquo;Two points of view&amp;rdquo;, you are venturing into the woods in search of Bigfoot. Equipped with your trusty camera drone, you can look around the forest yourself and get a bird&amp;rsquo;s-eye view. Track down Bigfoot and snap some pictures for the newspaper.&lt;/p&gt;&#xA;&lt;p&gt;It placed 11th out of 83 entries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Banana For Scale Inc.</title>
+      <link>//localhost:1313/jams/banana_for_scale_inc/</link>
+      <pubDate>Tue, 20 Aug 2024 11:43:25 +0100</pubDate>
+      <guid>//localhost:1313/jams/banana_for_scale_inc/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Banana For Scale Inc. was made for the GMTK Game Jam 2024 in two days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Built to Scale&amp;rdquo;, the player works for a banana sizing company. You are tasked with adding bananas of the right size to various images, from a still life painting, to my real life pantry. Help the company rise to untold riches by accurately placing bananas.&lt;/p&gt;&#xA;&lt;p&gt;It placed 270th out of 7,573 entries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Papa&#39;s Pizza Eater</title>
+      <link>//localhost:1313/jams/papas-pizza-eater/</link>
+      <pubDate>Sun, 09 Jul 2023 11:43:54 +0100</pubDate>
+      <guid>//localhost:1313/jams/papas-pizza-eater/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Papa&amp;rsquo;s Pizza Eater was made in two days for the GMTK Game Jam 2023.&lt;/p&gt;&#xA;&lt;p&gt;The theme &amp;ldquo;Roles Reversed&amp;rdquo; inspired this parody of the Papa&amp;rsquo;s Pizzeria series. Run a pizza-eating store, where customers tell you what parts of their pizza they want eaten. Collect tip money, and buy upgrades to improve your pizza eating abilities. Will you earn the #1 pizza eater trophy?&lt;/p&gt;&#xA;&lt;p&gt;It placed 2,452th out of 6,719 entries.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
