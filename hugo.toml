@@ -86,6 +86,10 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
                                           # e.g. /assets/images/site/og-image.png becomes images/site/og-image.png
     # publisher_icon = ""                 # path to publisher icon - defaults to favicon, used in schema
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [taxonomies]
     series = 'series'
     tags = 'tags'
