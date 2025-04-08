@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://just-a-bee.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Apr 2025 13:17:03 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://just-a-bee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming Soon</title>
-      <link>http://localhost:1313/devlogs/coming-soon/</link>
+      <link>https://just-a-bee.github.io/devlogs/coming-soon/</link>
       <pubDate>Thu, 03 Apr 2025 13:17:03 +0100</pubDate>
-      <guid>http://localhost:1313/devlogs/coming-soon/</guid>
+      <guid>https://just-a-bee.github.io/devlogs/coming-soon/</guid>
       <description>&lt;p&gt;No devlogs yet! Probably coming over the summer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bigfoots Big Break</title>
-      <link>http://localhost:1313/jams/bigfoots-big-break/</link>
+      <link>https://just-a-bee.github.io/jams/bigfoots-big-break/</link>
       <pubDate>Wed, 15 Jan 2025 11:43:37 +0100</pubDate>
-      <guid>http://localhost:1313/jams/bigfoots-big-break/</guid>
+      <guid>https://just-a-bee.github.io/jams/bigfoots-big-break/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Bigfoot&amp;rsquo;s Big Break was made in three days for the GoedWare Game Jam Limited Color Palette in January 2025.&lt;/p&gt;&#xA;&lt;p&gt;Based on the theme &amp;ldquo;Two points of view&amp;rdquo;, you are venturing into the woods in search of Bigfoot. Equipped with your trusty camera drone, you can look around the forest yourself and get a bird&amp;rsquo;s-eye view. Track down Bigfoot and snap some pictures for the newspaper.&lt;/p&gt;&#xA;&lt;p&gt;It placed 11th out of 83 entries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Banana For Scale Inc.</title>
-      <link>http://localhost:1313/jams/banana_for_scale_inc/</link>
+      <link>https://just-a-bee.github.io/jams/banana_for_scale_inc/</link>
       <pubDate>Tue, 20 Aug 2024 11:43:25 +0100</pubDate>
-      <guid>http://localhost:1313/jams/banana_for_scale_inc/</guid>
+      <guid>https://just-a-bee.github.io/jams/banana_for_scale_inc/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Banana For Scale Inc. was made for the GMTK Game Jam 2024 in two days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Built to Scale&amp;rdquo;, the player works for a banana sizing company. You are tasked with adding bananas of the right size to various images, from a still life painting, to my real life pantry. Help the company rise to untold riches by accurately placing bananas.&lt;/p&gt;&#xA;&lt;p&gt;It placed 270th out of 7,573 entries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chrono Cat</title>
-      <link>http://localhost:1313/games/chrono-cat/</link>
+      <link>https://just-a-bee.github.io/games/chrono-cat/</link>
       <pubDate>Sat, 06 Apr 2024 11:31:36 +0100</pubDate>
-      <guid>http://localhost:1313/games/chrono-cat/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Chrono cat is a short Sokoban-Style puzzle game inspired by Baba is You. It features a unique &amp;ldquo;rewind&amp;rdquo; mechanic which allows you to send objects back in time. Can you help Chrono Cat take a nap in all five levels?&lt;/p&gt;&#xA;&#xA;&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed/2511179?bg_color=f6f2e4&amp;amp;fg_color=222222&amp;amp;link_color=e9b026&amp;amp;border_color=a98b6b&#34; width=&#34;552&#34; height=&#34;167&#34;&gt;&lt;a href=&#34;https://just-a-bee.itch.io/chrono-cat&#34;&gt;Chrono Cat by Just a Bee&lt;/a&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;p&gt;Solve tricky puzzles to help Chrono Cat get to her bed&#xA;&lt;img src=&#34;http://localhost:1313/Chrono-Cat/puzzle.png&#34; alt=&#34;image&#34;&gt;&#xA;Use Chrono Cat&amp;rsquo;s rewind ability to send objects back through time!&#xA;&lt;img src=&#34;http://localhost:1313/Chrono-Cat/rewind.gif&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;Game by Abby Smith&lt;/p&gt;</description>
+      <guid>https://just-a-bee.github.io/games/chrono-cat/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Chrono cat is a short Sokoban-Style puzzle game inspired by Baba is You. It features a unique &amp;ldquo;rewind&amp;rdquo; mechanic which allows you to send objects back in time. Can you help Chrono Cat take a nap in all five levels?&lt;/p&gt;&#xA;&#xA;&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed/2511179?bg_color=f6f2e4&amp;amp;fg_color=222222&amp;amp;link_color=e9b026&amp;amp;border_color=a98b6b&#34; width=&#34;552&#34; height=&#34;167&#34;&gt;&lt;a href=&#34;https://just-a-bee.itch.io/chrono-cat&#34;&gt;Chrono Cat by Just a Bee&lt;/a&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;p&gt;Solve tricky puzzles to help Chrono Cat get to her bed&#xA;&lt;img src=&#34;https://just-a-bee.github.io/Chrono-Cat/puzzle.png&#34; alt=&#34;image&#34;&gt;&#xA;Use Chrono Cat&amp;rsquo;s rewind ability to send objects back through time!&#xA;&lt;img src=&#34;https://just-a-bee.github.io/Chrono-Cat/rewind.GIF&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;Game by Abby Smith&lt;/p&gt;</description>
     </item>
     <item>
       <title>Papa&#39;s Pizza Eater</title>
-      <link>http://localhost:1313/jams/papas-pizza-eater/</link>
+      <link>https://just-a-bee.github.io/jams/papas-pizza-eater/</link>
       <pubDate>Sun, 09 Jul 2023 11:43:54 +0100</pubDate>
-      <guid>http://localhost:1313/jams/papas-pizza-eater/</guid>
+      <guid>https://just-a-bee.github.io/jams/papas-pizza-eater/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Papa&amp;rsquo;s Pizza Eater was made in two days for the GMTK Game Jam 2023.&lt;/p&gt;&#xA;&lt;p&gt;The theme &amp;ldquo;Roles Reversed&amp;rdquo; inspired this parody of the Papa&amp;rsquo;s Pizzeria series. Run a pizza-eating store, where customers tell you what parts of their pizza they want eaten. Collect tip money, and buy upgrades to improve your pizza eating abilities. Will you earn the #1 pizza eater trophy?&lt;/p&gt;&#xA;&lt;p&gt;It placed 2,452th out of 6,719 entries.&lt;/p&gt;</description>
     </item>
   </channel>
