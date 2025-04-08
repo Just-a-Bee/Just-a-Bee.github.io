@@ -15,9 +15,9 @@ It placed 2,452th out of 6,719 entries.
 ## Gameplay
 
 Take orders from your customers
-![image](/Pizza/shop.PNG)
+![image](/Pizza/Shop.PNG)
 Eat delicious pizza - carefully!
-![image](/Pizza/eat.PNG)
+![image](/Pizza/Eat.PNG)
 Buy strange upgrades, and work towards that trophy!
 ![image](/Pizza/upgrades.PNG)
 ## Credits
