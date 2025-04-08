@@ -19,7 +19,7 @@ It placed 11th out of 83 entries.
 Use the split screen view to search for bigfoot from two points of view at a time
 ![image](/Bigfoot/Splitscreen.png)
 Take pictures of your surroundings, using either perspective
-![image](/Bigfoot/picture.gif)
+![image](/Bigfoot/picture.GIF)
 Get your evidence collection scored
 ![image](/Bigfoot/evidence.png)
 *Is that Bigfoot?*

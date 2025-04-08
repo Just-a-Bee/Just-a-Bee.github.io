@@ -15,11 +15,11 @@ It placed 2,452th out of 6,719 entries.
 ## Gameplay
 
 Take orders from your customers
-![image](/Pizza/shop.png)
+![image](/Pizza/shop.PNG)
 Eat delicious pizza - carefully!
-![image](/Pizza/eat.png)
+![image](/Pizza/eat.PNG)
 Buy strange upgrades, and work towards that trophy!
-![image](/Pizza/upgrades.png)
+![image](/Pizza/upgrades.PNG)
 ## Credits
 
 Programming by Abby Smith

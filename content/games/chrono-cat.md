@@ -11,7 +11,7 @@ Chrono cat is a short Sokoban-Style puzzle game inspired by Baba is You. It feat
 Solve tricky puzzles to help Chrono Cat get to her bed
 ![image](/Chrono-Cat/puzzle.png)
 Use Chrono Cat's rewind ability to send objects back through time!
-![image](/Chrono-Cat/rewind.gif)
+![image](/Chrono-Cat/rewind.GIF)
 
 ## Credits
 Game by Abby Smith
