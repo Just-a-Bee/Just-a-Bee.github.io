@@ -6,10 +6,12 @@ title = 'About'
 
 Welcome to my page!
 
-I'm a second year Games Programming student at the University of East London, with a focus on Gameplay Programming. 
+I'm a second year Games Programming student at the University of East London, with a focus on Gameplay Programming. I'm a focused developer with a lot of experience using Godot, Unreal Engine, and C++ programming. I have a Associate's Degree in Computer Science from Howard Community College, and am working towards my Bachelor's in Games Programming.
 
-I'm a focused developer with a lot of experience with Godot, Unreal Engine, and C++ programming. 
+I make weird jam games, puzzle games, and more. I'm mainly focused on the programming side of things, but also do a lot of design work for the games I make. I like unique games that make the player think in a new way and strive to create that experience in my work.
 
-Have fun checking out [my games](https://just-a-bee.github.io/games) and [my jam games](https://just-a-bee.github.io/jams)! I'll be posting devlogs for my next project soon.
+Have fun checking out [my games](https://just-a-bee.github.io/games) and [my jam games](https://just-a-bee.github.io/jams)! I'll be posting [devlogs](https://just-a-bee.github.io/devlogs) for my next project soon.
 
 Feel free to reach out about any inquiries!
+
+Please also check out [Isaiah Sugar's website](http://isaiahsugar.com).

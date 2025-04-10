@@ -22,8 +22,8 @@ Buy strange upgrades, and work towards that trophy!
 ![image](/Pizza/upgrades.PNG)
 ## Credits
 
-Programming by Abby Smith
+Programming by [Abby Smith](https://just-a-bee.github.io/about/)
 
-Art and Audio by Isaiah Sugar
+Art and Audio by [Isaiah Sugar](http://isaiahsugar.com)
 
-Made with Godot Game Engine
+Made in [Godot](https://godotengine.org/license)
