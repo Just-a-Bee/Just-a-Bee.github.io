@@ -24,7 +24,7 @@ Get your evidence collection scored
 ![image](/Bigfoot/evidence.png)
 *Is that Bigfoot?*
 ## Credits
-Code by [Abby Smith](https://just-a-bee.github.io/about/)
+Code by [Abby Smith](/about/)
 
 Art, shader programming, and audio by [Isaiah Sugar](http://isaiahsugar.com)
 

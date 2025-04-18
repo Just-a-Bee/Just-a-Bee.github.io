@@ -22,7 +22,7 @@ Buy strange upgrades, and work towards that trophy!
 ![image](/Pizza/upgrades.PNG)
 ## Credits
 
-Programming by [Abby Smith](https://just-a-bee.github.io/about/)
+Programming by [Abby Smith](/about/)
 
 Art and Audio by [Isaiah Sugar](http://isaiahsugar.com)
 

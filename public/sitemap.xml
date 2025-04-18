@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://just-a-bee.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-03T13:17:03+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/devlogs/coming-soon/</loc>
+    <loc>http://localhost:1313/devlogs/coming-soon/</loc>
     <lastmod>2025-04-03T13:17:03+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/devlogs/</loc>
+    <loc>http://localhost:1313/devlogs/</loc>
     <lastmod>2025-04-03T13:17:03+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-04-03T11:29:58+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/jams/bigfoots-big-break/</loc>
+    <loc>http://localhost:1313/jams/bigfoots-big-break/</loc>
     <lastmod>2025-01-15T11:43:37+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/jams/</loc>
+    <loc>http://localhost:1313/jams/</loc>
     <lastmod>2025-01-15T11:43:37+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/jams/banana_for_scale_inc/</loc>
+    <loc>http://localhost:1313/jams/banana_for_scale_inc/</loc>
     <lastmod>2024-08-20T11:43:25+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/games/chrono-cat/</loc>
+    <loc>http://localhost:1313/games/chrono-cat/</loc>
     <lastmod>2024-04-06T11:31:36+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/games/</loc>
+    <loc>http://localhost:1313/games/</loc>
     <lastmod>2024-04-06T11:31:36+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/jams/papas-pizza-eater/</loc>
+    <loc>http://localhost:1313/jams/papas-pizza-eater/</loc>
     <lastmod>2023-07-09T11:43:54+01:00</lastmod>
   </url><url>
-    <loc>https://just-a-bee.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://just-a-bee.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

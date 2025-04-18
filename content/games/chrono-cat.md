@@ -18,7 +18,7 @@ Use Chrono Cat's rewind ability to send objects back through time!
 ![image](/Chrono-Cat/rewind.GIF)
 
 ## Credits
-Game by [Abby Smith](https://just-a-bee.github.io/about/)
+Game by [Abby Smith](/about/)
 
 Music and sounds by [Isaiah Sugar](http://isaiahsugar.com)
 

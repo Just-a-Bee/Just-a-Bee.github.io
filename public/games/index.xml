@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on </title>
-    <link>https://just-a-bee.github.io/games/</link>
+    <link>http://localhost:1313/games/</link>
     <description>Recent content in Games on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Apr 2024 11:31:36 +0100</lastBuildDate>
-    <atom:link href="https://just-a-bee.github.io/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chrono Cat</title>
-      <link>https://just-a-bee.github.io/games/chrono-cat/</link>
+      <link>http://localhost:1313/games/chrono-cat/</link>
       <pubDate>Sat, 06 Apr 2024 11:31:36 +0100</pubDate>
-      <guid>https://just-a-bee.github.io/games/chrono-cat/</guid>
+      <guid>http://localhost:1313/games/chrono-cat/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Chrono Cat was made as a small personal project in 2024&lt;/p&gt;&#xA;&lt;p&gt;Chrono cat is a short Sokoban-Style puzzle game inspired by games like Baba is You. It features a unique &amp;ldquo;rewind&amp;rdquo; mechanic which allows you to send objects back in time. Can you help Chrono Cat take a nap in all five levels?&lt;/p&gt;&#xA;&lt;p&gt;This is my most polished project, with a focus on a clean user experience, smooth animations, and quality of life features like saved progress and a settings menu.&lt;/p&gt;</description>
     </item>
   </channel>
