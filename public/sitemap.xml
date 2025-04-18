@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://just-a-bee.github.io/</loc>
     <lastmod>2025-04-03T13:17:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/devlogs/coming-soon/</loc>
+    <loc>https://just-a-bee.github.io/devlogs/coming-soon/</loc>
     <lastmod>2025-04-03T13:17:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/devlogs/</loc>
+    <loc>https://just-a-bee.github.io/devlogs/</loc>
     <lastmod>2025-04-03T13:17:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://just-a-bee.github.io/about/</loc>
     <lastmod>2025-04-03T11:29:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jams/bigfoots-big-break/</loc>
+    <loc>https://just-a-bee.github.io/jams/bigfoots-big-break/</loc>
     <lastmod>2025-01-15T11:43:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jams/</loc>
+    <loc>https://just-a-bee.github.io/jams/</loc>
     <lastmod>2025-01-15T11:43:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jams/banana_for_scale_inc/</loc>
+    <loc>https://just-a-bee.github.io/jams/banana_for_scale_inc/</loc>
     <lastmod>2024-08-20T11:43:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/games/chrono-cat/</loc>
+    <loc>https://just-a-bee.github.io/games/chrono-cat/</loc>
     <lastmod>2024-04-06T11:31:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/games/</loc>
+    <loc>https://just-a-bee.github.io/games/</loc>
     <lastmod>2024-04-06T11:31:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jams/papas-pizza-eater/</loc>
+    <loc>https://just-a-bee.github.io/jams/papas-pizza-eater/</loc>
     <lastmod>2023-07-09T11:43:54+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://just-a-bee.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://just-a-bee.github.io/tags/</loc>
   </url>
 </urlset>
