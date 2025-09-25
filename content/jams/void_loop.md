@@ -27,6 +27,6 @@ Add them into the code!
 
 ## Credits
 Created by [Abby Smith](/about/)
- and [Isaiah Sugar](http://isaiahsugar.com) using [Godot Game Engine](https://godotengine.org/license), with voice acting from Ariana Fernandez
+ and [Isaiah Sugar](http://isaiahsugar.com) using [Godot Game Engine](https://godotengine.org/license)
 
-**[The code is available on my GitHub page](https://github.com/Just-a-Bee/banana_for_scale)**
+**[The code is available on my GitHub page](https://github.com/Just-a-Bee/gmtk-2025)**
