@@ -10,6 +10,8 @@ void loop() was made for the GMTK Game Jam 2025 in four days.
 
 Following the theme "Loop" the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.
 
+It placed 184th for creativity out of 9,584 entries.
+
 {{< include-html "static/html/loop-widget.html" >}}
 
 ## Gameplay

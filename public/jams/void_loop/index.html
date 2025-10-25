@@ -56,11 +56,11 @@
 
 <!-- Open Graph image and Twitter Card metadata -->
 
-<title itemprop="name">Abby Smith - Starting my Game Studio project</title>
-<meta property="og:title" content=Abby&#32;Smith&#32;-&#32;Starting&#32;my&#32;Game&#32;Studio&#32;project />
-<meta name="twitter:title" content=Abby&#32;Smith&#32;-&#32;Starting&#32;my&#32;Game&#32;Studio&#32;project />
-<meta itemprop="name" content=Abby&#32;Smith&#32;-&#32;Starting&#32;my&#32;Game&#32;Studio&#32;project />
-<meta name="application-name" content=Abby&#32;Smith&#32;-&#32;Starting&#32;my&#32;Game&#32;Studio&#32;project />
+<title itemprop="name">Abby Smith - void loop()</title>
+<meta property="og:title" content=Abby&#32;Smith&#32;-&#32;void&#32;loop() />
+<meta name="twitter:title" content=Abby&#32;Smith&#32;-&#32;void&#32;loop() />
+<meta itemprop="name" content=Abby&#32;Smith&#32;-&#32;void&#32;loop() />
+<meta name="application-name" content=Abby&#32;Smith&#32;-&#32;void&#32;loop() />
 <meta property="og:site_name" content="" />
 
 
@@ -70,14 +70,14 @@
 <meta name="twitter:description" content="" />
 
 
-<base href="http://localhost:1313/devlogs/coming-soon/" />
-<link rel="canonical" href="http://localhost:1313/devlogs/coming-soon/" itemprop="url" />
-<meta name="url" content="http://localhost:1313/devlogs/coming-soon/" />
-<meta name="twitter:url" content="http://localhost:1313/devlogs/coming-soon/" />
-<meta property="og:url" content="http://localhost:1313/devlogs/coming-soon/" />
+<base href="http://localhost:1313/jams/void_loop/" />
+<link rel="canonical" href="http://localhost:1313/jams/void_loop/" itemprop="url" />
+<meta name="url" content="http://localhost:1313/jams/void_loop/" />
+<meta name="twitter:url" content="http://localhost:1313/jams/void_loop/" />
+<meta property="og:url" content="http://localhost:1313/jams/void_loop/" />
 
 
-<meta property="og:updated_time" content="2025-10-24T13:05:00&#43;01:00" />
+<meta property="og:updated_time" content="2025-08-08T11:43:25&#43;01:00" />
 
 
 <link rel="sitemap" type="application/xml" title="Sitemap" href='http://localhost:1313/sitemap.xml' />
@@ -327,7 +327,7 @@
                         </li>
                         
                             <li class="bullet">
-                                <a href="http://localhost:1313/devlogs/coming-soon/">Starting my Game Studio project</a>
+                                <a href="http://localhost:1313/devlogs/game-studio-1/">Starting my Game Studio Project</a>
                             </li>
                         
                     
@@ -381,7 +381,7 @@
 
 
 
-    <a target="_blank" class="social" title="Email" href="mailto://abby@stardotstar.org">
+    <a target="_blank" class="social" title="Email" href="mailto:abby@stardotstar.org">
        <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1.2em" viewBox="0 0 485.211 485.211">
             <path fill="currentColor" d="M301.393,241.631L464.866,424.56H20.332l163.474-182.928l58.801,51.443L301.393,241.631z M462.174,60.651H23.027 l219.579,192.142L462.174,60.651z M324.225,221.67l160.986,180.151V80.792L324.225,221.67z M0,80.792v321.029L160.972,221.64 L0,80.792z"/>
        </svg>
@@ -403,15 +403,15 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
                 <div class="post">
   <div class="info">
   <h1 class="post-title">
-    <a href="http://localhost:1313/devlogs/coming-soon/">Starting my Game Studio project</a>
+    <a href="http://localhost:1313/jams/void_loop/">void loop()</a>
   </h1>
 
   <div class="headline">
     <div>
       
       
-      <time datetime=" 2025-10-24T13:05:00&#43;0100" class="post-date">
-        October 24, 2025
+      <time datetime=" 2025-08-08T11:43:25&#43;0100" class="post-date">
+        August 8, 2025
       </time>
       
       <span> - </span>
@@ -420,7 +420,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
           
         
 
-        <span>2 mins read</span>
+        <span>1 min read</span>
       </span>
     </div>
 
@@ -433,20 +433,32 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
   
 </div>
 
-  <p>Recently I&rsquo;ve started working on my Game Studio 3 project for my university course. I&rsquo;m working with an amazing group and very excited to be coming together to make a game.</p>
-<p>The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.</p>
-<p>In order to make our ideas a reality, we&rsquo;re using Unreal Engine 5. I am responsible for the gameplay programming, UI programming, and likely more as we move along with the project and have more things to implement.</p>
-<p>I&rsquo;ve just started on the Inventory system, which keeps track of what items the player has collected. This is used for giving the player the right stats/abilities, and for saving that information. Later there will be a menu that displays these items and describes them.</p>
-<p>The inventory contains a map of items to integers in order to keep track of the quantity. (Some items, such as health upgrades, the player will be able to collect more than one of)
-<img src="/Devlogs/Inventory.PNG" alt="image">
-When a new item is collected, we check if its class matches the class of an already collected item, if so we just increment that item. Then the item&rsquo;s &ldquo;Get Collected&rdquo; function is called, which is what actually implements the item&rsquo;s behaviour.</p>
-<p>I&rsquo;m very happy with the direction of this project, and look forward to sharing more as it comes along.</p>
+  <h2 id="overview">Overview</h2>
+<p>void loop() was made for the GMTK Game Jam 2025 in four days.</p>
+<p>Following the theme &ldquo;Loop&rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.</p>
+<p>It placed 184th for creativity out of 9,584 entries.</p>
+
+<iframe frameborder="0" src="https://itch.io/embed/3780569?bg_color=222222&amp;fg_color=00FF00&amp;link_color=8a0202&amp;border_color=2f512f" width="552" height="167"><a href="https://just-a-bee.itch.io/void-loop">void loop() by Just a Bee, Isaiah</a></iframe>
+<h2 id="gameplay">Gameplay</h2>
+<p>Stop Boolean before it&rsquo;s too late!</p>
+<p>Fight enemies!
+<img src="/Loop/combat.png" alt="image"></p>
+<p>Choose powerful upgrades!
+<img src="/Loop/upgrades.png" alt="image"></p>
+<p>Add them into the code!
+<img src="/Loop/code.png" alt="image"></p>
+<h2 id="credits">Credits</h2>
+<p>Created by <a href="/about/">Abby Smith</a>
+and <a href="http://isaiahsugar.com" target="_blank">Isaiah Sugar</a> using <a href="https://godotengine.org/license" target="_blank">Godot Game Engine</a></p>
+<p><strong><a href="https://github.com/Just-a-Bee/gmtk-2025" target="_blank">The code is available on my GitHub page</a></strong></p>
 
   
   <hr>
 <div class="footer">
     
 	    
+            <a class="previous-post" href="http://localhost:1313/jams/bigfoots-big-break/?ref=footer"><span style="font-weight:bold;">« Previous</span><br>Bigfoots Big Break</a>
+        
 	    
     
 </div>
@@ -459,7 +471,13 @@ When a new item is collected, we check if its class matches the class of an alre
     <div class="article-toc ">
     <div class="toc-wrapper">
       <h4 id="contents"></h4>
-      <nav id="TableOfContents"></nav>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#gameplay">Gameplay</a></li>
+    <li><a href="#credits">Credits</a></li>
+  </ul>
+</nav>
     </div>
 </div>
 

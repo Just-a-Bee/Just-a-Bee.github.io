@@ -31,7 +31,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use.
-    email_url = "mailto://user@domain"
+    email_url = "mailto:abby@stardotstar.org"
     github_url = "https://github.com/Just-a-Bee"
     linkedin_url = "https://www.linkedin.com/in/abby-smith-a4a797264/"
     itch_url = "https://just-a-bee.itch.io"
