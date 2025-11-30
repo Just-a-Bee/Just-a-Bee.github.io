@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raylib on </title>
+    <link>http://localhost:1313/tags/raylib/</link>
+    <description>Recent content in Raylib on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2024 11:31:36 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/raylib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tank Game</title>
+      <link>http://localhost:1313/games/tank-game/</link>
+      <pubDate>Sat, 06 Apr 2024 11:31:36 +0100</pubDate>
+      <guid>http://localhost:1313/games/tank-game/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Tank-Game/Game.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This was a small C++ project using the Raylib graphics library, mostly made to practice my C++ and see what it&amp;rsquo;s like making a game without an engine. I focused on implementing &amp;lsquo;Design Patterns&amp;rsquo;, mostly based on the diagrams from &lt;a href=&#34;https://refactoring.guru/design-patterns&#34; target=&#34;_blank&#34;&gt;Refactoring Guru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;It features menu screens, collision detection, powerups, a scoring system, and more. The graphics and gameplay are quite simple, as it&amp;rsquo;s intended as more of a technical project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

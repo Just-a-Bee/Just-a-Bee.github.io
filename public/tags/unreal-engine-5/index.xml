@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal Engine 5 on </title>
+    <link>http://localhost:1313/tags/unreal-engine-5/</link>
+    <description>Recent content in Unreal Engine 5 on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Oct 2025 13:05:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unreal-engine-5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting my Game Studio Project</title>
+      <link>http://localhost:1313/devlogs/game-studio-1/</link>
+      <pubDate>Fri, 24 Oct 2025 13:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/devlogs/game-studio-1/</guid>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve started working on my Game Studio 3 project for my university course. I&amp;rsquo;m working with an amazing group and very excited to be coming together to make a game.&lt;/p&gt;&#xA;&lt;p&gt;The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&amp;rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

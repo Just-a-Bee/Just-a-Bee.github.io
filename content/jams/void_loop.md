@@ -2,6 +2,7 @@
 date = '2025-08-08T11:43:25+01:00'
 draft = false
 title = 'void loop()'
+tags = ['Godot', 'GDScript']
 +++
 
 ## Overview
@@ -26,6 +27,42 @@ Choose powerful upgrades!
 Add them into the code!
 ![image](/Loop/code.png)
 
+## Code
+
+Within the code, a real recursive function makes all of this work:
+```
+func loop():
+	# get our current block and update the code window
+	var block = loop_arr[current_block]
+	code_window.increment_sprite_offset()
+
+	# execute our block and wait for it to finish
+	block.execute()
+	if not block.is_finished:
+		await block.finished
+
+	# reset our block and increment current_block
+	block.reset()
+	current_block += 1
+
+	# if that was the last block, restart "loop"
+	if current_block >= loop_arr.size():
+		current_block = 0
+		code_window.set_sprite_offset(0)
+		await get_tree().create_timer(Block.line_execute_time).timeout
+	
+	# if stack count is too high lose the game
+	if stack_count > 16:
+		lose()
+	
+	# if loop isn't paused, continue executing
+	if do_execute_loop:
+		loop()
+```
+
+This iterates over an array of 'code blocks' (the lines added to the function in game) and executes each one. It was important to me that there is a real recursive function happening within the code to make the game more real. Although, it does stop recurring when the function pauses after you defeat all the enemies.
+
+I also had to implement a randomly generated array of rooms to fight through, various enemy AIs, and the upgrade menu UI. Overall it was a very fun project to work on!
 
 ## Credits
 Created by [Abby Smith](/about/)

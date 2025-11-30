@@ -23,6 +23,13 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Tank Game</title>
+      <link>http://localhost:1313/games/tank-game/</link>
+      <pubDate>Thu, 12 Jun 2025 11:31:36 +0100</pubDate>
+      <guid>http://localhost:1313/games/tank-game/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Tank-Game/Game.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This was a small C++ project using the Raylib graphics library, mostly made to practice my C++ and see what it&amp;rsquo;s like making a game without an engine. I focused on implementing &amp;lsquo;Design Patterns&amp;rsquo;, mostly based on the diagrams from &lt;a href=&#34;https://refactoring.guru/design-patterns&#34; target=&#34;_blank&#34;&gt;Refactoring Guru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;It features menu screens, collision detection, powerups, a scoring system, and an implementation of AStar pathfinding. The graphics and gameplay are quite simple, as it&amp;rsquo;s intended as more of a technical project.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Bigfoots Big Break</title>
       <link>http://localhost:1313/jams/bigfoots-big-break/</link>
       <pubDate>Wed, 15 Jan 2025 11:43:37 +0100</pubDate>
