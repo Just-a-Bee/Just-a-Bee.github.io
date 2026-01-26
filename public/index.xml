@@ -44,11 +44,11 @@
       <description>&lt;p&gt;Recently I&amp;rsquo;ve started working on my Game Studio 3 project for my university course. I&amp;rsquo;m working with an amazing group and very excited to be coming together to make a game.&lt;/p&gt;&#xA;&lt;p&gt;The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&amp;rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>edit</title>
+      <title>void loop()</title>
       <link>http://localhost:1313/jams/void_loop/</link>
       <pubDate>Fri, 08 Aug 2025 11:43:25 +0100</pubDate>
       <guid>http://localhost:1313/jams/void_loop/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;what&#34;&gt;What&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bigfoots Big Break</title>
