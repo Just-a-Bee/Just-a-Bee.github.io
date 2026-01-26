@@ -6,21 +6,14 @@
     <description>Recent content in Jams on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jan 2026 16:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 11:43:25 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/jams/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/jams/test/</link>
-      <pubDate>Mon, 26 Jan 2026 16:25:51 +0000</pubDate>
-      <guid>http://localhost:1313/jams/test/</guid>
-      <description>&lt;p&gt;This is a real page that exists&lt;/p&gt;</description>
-    </item>
     <item>
       <title>void loop()</title>
       <link>http://localhost:1313/jams/void_loop/</link>
       <pubDate>Fri, 08 Aug 2025 11:43:25 +0100</pubDate>
       <guid>http://localhost:1313/jams/void_loop/</guid>
-      <description>&lt;h2 id=&#34;what&#34;&gt;What&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bigfoots Big Break</title>

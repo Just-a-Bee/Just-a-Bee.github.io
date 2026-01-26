@@ -1,19 +1,15 @@
 +++
-date = '2025-10-24T13:05:00+01:00'
+date = '2025-12-31T13:05:00+01:00'
 draft = false
-title = 'Starting my Game Studio Project'
+title = 'Advent of Code 2025'
 +++
 
-Recently I've started working on my Game Studio 3 project for my university course. I'm working with an amazing group and very excited to be coming together to make a game.
+I participated in Avent of Code this year! I used C++ for my solutions as I am most familiar with it. I solved 19/24 of the puzzles in the end. 
 
-The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we're still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.
+## My Favorite Puzzle
+I thought [day seven](https://adventofcode.com/2025/day/7) was a lot of fun. In the puzzle, a laser is being split as it travels along a bunch of different points, and you have to count how many times it gets split. The trick is that after solving part one, it is changed so that you have to count the number of possible paths the laser can take. Originally I tried to just reuse my part one solution, keeping a list of each point the laser could be at but allowing duplicates this time to account for multiple paths. This proved to be dramatically too slow. Instead I had to pivot to counting the number of ways the laser could have reached that position and storing that value along with the position to avoid having to process it multiple times.
 
-In order to make our ideas a reality, we're using Unreal Engine 5. I am responsible for the gameplay programming, UI programming, and likely more as we move along with the project and have more things to implement.
+It was fun having to optimize a data structure for speed and efficiently solve the problem, especially because I don't often encounter situations where speed is a concern in my projects.
 
-I've just started on the Inventory system, which keeps track of what items the player has collected. This is used for giving the player the right stats/abilities, and for saving that information. Later there will be a menu that displays these items and describes them.
-
-The inventory contains a map of items to integers in order to keep track of the quantity. (Some items, such as health upgrades, the player will be able to collect more than one of) 
-![image](/Devlogs/Inventory.PNG)
-When a new item is collected, we check if its class matches the class of an already collected item, if so we just increment that item. Then the item's "Get Collected" function is called, which is what actually implements the item's behaviour.
-
-I'm very happy with the direction of this project, and look forward to sharing more as it comes along.
+[The code can be viewed on my Github Page.](https://github.com/Just-a-Bee/AdventofCode2025)
+Unfortunately, my SSD died and I hadn't pushed my changes past day 9 so that code is gone forever.

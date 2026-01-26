@@ -56,11 +56,11 @@
 
 <!-- Open Graph image and Twitter Card metadata -->
 
-<title itemprop="name">Abby Smith - Starting my Game Studio Project</title>
-<meta property="og:title" content=Abby&#32;Smith&#32;-&#32;Starting&#32;my&#32;Game&#32;Studio&#32;Project />
-<meta name="twitter:title" content=Abby&#32;Smith&#32;-&#32;Starting&#32;my&#32;Game&#32;Studio&#32;Project />
-<meta itemprop="name" content=Abby&#32;Smith&#32;-&#32;Starting&#32;my&#32;Game&#32;Studio&#32;Project />
-<meta name="application-name" content=Abby&#32;Smith&#32;-&#32;Starting&#32;my&#32;Game&#32;Studio&#32;Project />
+<title itemprop="name">Abby Smith - Planet Amvlys Playtest</title>
+<meta property="og:title" content=Abby&#32;Smith&#32;-&#32;Planet&#32;Amvlys&#32;Playtest />
+<meta name="twitter:title" content=Abby&#32;Smith&#32;-&#32;Planet&#32;Amvlys&#32;Playtest />
+<meta itemprop="name" content=Abby&#32;Smith&#32;-&#32;Planet&#32;Amvlys&#32;Playtest />
+<meta name="application-name" content=Abby&#32;Smith&#32;-&#32;Planet&#32;Amvlys&#32;Playtest />
 <meta property="og:site_name" content="" />
 
 
@@ -70,14 +70,14 @@
 <meta name="twitter:description" content="" />
 
 
-<base href="http://localhost:1313/devlogs/game-studio-1/" />
-<link rel="canonical" href="http://localhost:1313/devlogs/game-studio-1/" itemprop="url" />
-<meta name="url" content="http://localhost:1313/devlogs/game-studio-1/" />
-<meta name="twitter:url" content="http://localhost:1313/devlogs/game-studio-1/" />
-<meta property="og:url" content="http://localhost:1313/devlogs/game-studio-1/" />
+<base href="http://localhost:1313/devlogs/game-studio-playtest/" />
+<link rel="canonical" href="http://localhost:1313/devlogs/game-studio-playtest/" itemprop="url" />
+<meta name="url" content="http://localhost:1313/devlogs/game-studio-playtest/" />
+<meta name="twitter:url" content="http://localhost:1313/devlogs/game-studio-playtest/" />
+<meta property="og:url" content="http://localhost:1313/devlogs/game-studio-playtest/" />
 
 
-<meta property="og:updated_time" content="2025-10-24T13:05:00&#43;01:00" />
+<meta property="og:updated_time" content="2025-11-06T13:05:00&#43;01:00" />
 
 
 <link rel="sitemap" type="application/xml" title="Sitemap" href='http://localhost:1313/sitemap.xml' />
@@ -411,15 +411,15 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
                 <div class="post">
   <div class="info">
   <h1 class="post-title">
-    <a href="http://localhost:1313/devlogs/game-studio-1/">Starting my Game Studio Project</a>
+    <a href="http://localhost:1313/devlogs/game-studio-playtest/">Planet Amvlys Playtest</a>
   </h1>
 
   <div class="headline">
     <div>
       
       
-      <time datetime=" 2025-10-24T13:05:00&#43;0100" class="post-date">
-        October 24, 2025
+      <time datetime=" 2025-11-06T13:05:00&#43;0100" class="post-date">
+        November 6, 2025
       </time>
       
       <span> - </span>
@@ -441,23 +441,24 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
   
 </div>
 
-  <p>Recently I&rsquo;ve started working on my Game Studio 3 project for my university course. I&rsquo;m working with an amazing group and very excited to be coming together to make a game.</p>
-<p>The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.</p>
-<p>In order to make our ideas a reality, we&rsquo;re using Unreal Engine 5. I am responsible for the gameplay programming, UI programming, and likely more as we move along with the project and have more things to implement.</p>
-<p>I&rsquo;ve just started on the Inventory system, which keeps track of what items the player has collected. This is used for giving the player the right stats/abilities, and for saving that information. Later there will be a menu that displays these items and describes them.</p>
-<p>The inventory contains a map of items to integers in order to keep track of the quantity. (Some items, such as health upgrades, the player will be able to collect more than one of)
-<img src="/Devlogs/Inventory.PNG" alt="image">
-When a new item is collected, we check if its class matches the class of an already collected item, if so we just increment that item. Then the item&rsquo;s &ldquo;Get Collected&rdquo; function is called, which is what actually implements the item&rsquo;s behaviour.</p>
-<p>I&rsquo;m very happy with the direction of this project, and look forward to sharing more as it comes along.</p>
+  <p>This week we held a playtest for our Game Studio 3 project! We had twelve players try a demo of our game and answer a feedback survey. The goal of this is to inform our further development based on player feedback and identify issues to resolve.</p>
+<h2 id="the-demo">The Demo</h2>
+<p>Our demo features one completed level, four main items to collect, and a boss fight. The main point of this level is to test the gameplay, and its design will be completely reworked for the final game.</p>
+<p>I was responsible for programming each of these items using the inventory system I developed previously. Additionally, I created level elements such as automatic doors, moving platforms, and levers which can activate various other objects.</p>
+<h2 id="feedback">Feedback</h2>
+<p>Most of our feedback was quite positive. On average players rated their enjoyment a 4/5, said they understood what they were supposed to do, and felt motivated to explore the level, which is an important feature of a Metroidvania game. We also identified many problems to solve. Some players got stuck at certain points, such as not understanding how to interact with levers or how to use the laser weapon to break rocks. There were also some bugs during the boss fight, including its shockwave attack being unavoidable.</p>
+<p>In the future we will work to resolve these issues, as well as expand on the features players liked. I plan to add more items and weapons to use in combat, more level and puzzle elements, and a scanning system which will help inform players about the environment and how to progress within it.</p>
 
   
   <hr>
 <div class="footer">
     
 	    
+            <a class="previous-post" href="http://localhost:1313/devlogs/game-studio-1/?ref=footer"><span style="font-weight:bold;">« Previous</span><br>Starting my Game Studio Project</a>
+        
 	    
             <div class="next-post">
-                <a href="http://localhost:1313/devlogs/game-studio-playtest/?ref=footer"><span style="font-weight:bold;">Next »</span><br>Planet Amvlys Playtest</a>
+                <a href="http://localhost:1313/devlogs/advent-of-code-2025/?ref=footer"><span style="font-weight:bold;">Next »</span><br>Advent of Code 2025</a>
             </div>
         
     
@@ -471,7 +472,12 @@ When a new item is collected, we check if its class matches the class of an alre
     <div class="article-toc ">
     <div class="toc-wrapper">
       <h4 id="contents"></h4>
-      <nav id="TableOfContents"></nav>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-demo">The Demo</a></li>
+    <li><a href="#feedback">Feedback</a></li>
+  </ul>
+</nav>
     </div>
 </div>
 

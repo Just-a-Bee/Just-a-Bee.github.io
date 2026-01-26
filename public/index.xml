@@ -6,28 +6,21 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jan 2026 16:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 13:05:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/jams/test/</link>
-      <pubDate>Mon, 26 Jan 2026 16:25:51 +0000</pubDate>
-      <guid>http://localhost:1313/jams/test/</guid>
-      <description>&lt;p&gt;This is a real page that exists&lt;/p&gt;</description>
+      <title>Advent of Code 2025</title>
+      <link>http://localhost:1313/devlogs/advent-of-code-2025/</link>
+      <pubDate>Wed, 31 Dec 2025 13:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/devlogs/advent-of-code-2025/</guid>
+      <description>&lt;p&gt;I participated in Avent of Code this year! I used C++ for my solutions as I am most familiar with it. I solved 19/24 of the puzzles in the end.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-favorite-puzzle&#34;&gt;My Favorite Puzzle&lt;/h2&gt;&#xA;&lt;p&gt;I thought &lt;a href=&#34;https://adventofcode.com/2025/day/7&#34; target=&#34;_blank&#34;&gt;day seven&lt;/a&gt; was a lot of fun. In the puzzle, a laser is being split as it travels along a bunch of different points, and you have to count how many times it gets split. The trick is that after solving part one, it is changed so that you have to count the number of possible paths the laser can take. Originally I tried to just reuse my part one solution, keeping a list of each point the laser could be at but allowing duplicates this time to account for multiple paths. This proved to be dramatically too slow. Instead I had to pivot to counting the number of ways the laser could have reached that position and storing that value along with the position to avoid having to process it multiple times.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Planet Amvlys Playtest</title>
       <link>http://localhost:1313/devlogs/game-studio-playtest/</link>
       <pubDate>Thu, 06 Nov 2025 13:05:00 +0100</pubDate>
       <guid>http://localhost:1313/devlogs/game-studio-playtest/</guid>
-      <description>&lt;p&gt;This week we held a playtest for our Game Studio 3 project! We had twelve players try a demo of our game and answer a feedback survey. The goal of this is to inform our further development based on player feedback and identify issues to resolve.&lt;/p&gt;&#xA;&lt;p&gt;#The Demo#&#xA;Our demo features one completed level, four main items to collect, and a boss fight. The main point of this level is to test the gameplay, and its design will be completely reworked for the final game.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Starting my Game Studio Project</title>
-      <link>http://localhost:1313/devlogs/advent-of-code-2025/</link>
-      <pubDate>Fri, 24 Oct 2025 13:05:00 +0100</pubDate>
-      <guid>http://localhost:1313/devlogs/advent-of-code-2025/</guid>
-      <description>&lt;p&gt;Recently I&amp;rsquo;ve started working on my Game Studio 3 project for my university course. I&amp;rsquo;m working with an amazing group and very excited to be coming together to make a game.&lt;/p&gt;&#xA;&lt;p&gt;The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&amp;rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This week we held a playtest for our Game Studio 3 project! We had twelve players try a demo of our game and answer a feedback survey. The goal of this is to inform our further development based on player feedback and identify issues to resolve.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-demo&#34;&gt;The Demo&lt;/h2&gt;&#xA;&lt;p&gt;Our demo features one completed level, four main items to collect, and a boss fight. The main point of this level is to test the gameplay, and its design will be completely reworked for the final game.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starting my Game Studio Project</title>
@@ -37,18 +30,11 @@
       <description>&lt;p&gt;Recently I&amp;rsquo;ve started working on my Game Studio 3 project for my university course. I&amp;rsquo;m working with an amazing group and very excited to be coming together to make a game.&lt;/p&gt;&#xA;&lt;p&gt;The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&amp;rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Starting my Game Studio Project</title>
-      <link>http://localhost:1313/devlogs/game-studio-submission/</link>
-      <pubDate>Fri, 24 Oct 2025 13:05:00 +0100</pubDate>
-      <guid>http://localhost:1313/devlogs/game-studio-submission/</guid>
-      <description>&lt;p&gt;Recently I&amp;rsquo;ve started working on my Game Studio 3 project for my university course. I&amp;rsquo;m working with an amazing group and very excited to be coming together to make a game.&lt;/p&gt;&#xA;&lt;p&gt;The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&amp;rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>void loop()</title>
       <link>http://localhost:1313/jams/void_loop/</link>
       <pubDate>Fri, 08 Aug 2025 11:43:25 +0100</pubDate>
       <guid>http://localhost:1313/jams/void_loop/</guid>
-      <description>&lt;h2 id=&#34;what&#34;&gt;What&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bigfoots Big Break</title>
