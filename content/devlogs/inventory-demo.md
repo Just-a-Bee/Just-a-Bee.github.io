@@ -7,11 +7,7 @@ title = 'Unreal Engine Inventory System'
 This project is a demo of an inventory system implemented in UE5 using C++. It features item stacking, storing items in chests, and saving. It utilizes a data table for the item information, and utilizes automated testing to verify the inventory system is working as intended.
 
 
-![image](/Devlogs/InventoryDemo/1.PNG)
-Here the player has picked up some items and arranged them in their inventory
-
-![image](/Devlogs/InventoryDemo/2.PNG)
-Then, the player can store these items in a chest.
+![image](/Devlogs/InventoryDemo/inventory_gif.gif)
 
 #Code#
 The inventory is implemented an actor component containing a map from int (index within the inventory) to an item struct. When adding an item to an inventory it's placed at the first empty index, or stacked with any matching item within the inventory.  
@@ -43,7 +39,9 @@ bool UInventoryComponent::AddItemToInventoryByID(FName rowName) {
 }
 ```
 Then, to display the inventory, the inventory widget pulls from the inventory component and populates its slots based on the items found.
+![image](/Devlogs/InventoryDemo/bp_code)
 
+This results in the smooth inventory screen seen in game.
 
 #Credits#
 Code by Abby Smith
