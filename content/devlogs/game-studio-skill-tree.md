@@ -2,6 +2,7 @@
 date = '2026-02-10T13:05:00+01:00'
 draft = false
 title = 'Unreal Engine Skill Tree'
+tags = ['Unreal Engine 5']
 +++
 
 I've added a skill tree to my Unreal Engine project where the player can unlock various upgrades. Each item features its own tree with unique options to allow for unique player expression.

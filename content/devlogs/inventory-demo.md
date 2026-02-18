@@ -2,6 +2,7 @@
 date = '2026-02-10T13:05:00+01:00'
 draft = false
 title = 'Unreal Engine Inventory System'
+tags = ['Unreal Engine 5', 'C++']
 +++
 ## Overview
 This project is a demo of an inventory system implemented in UE5 using C++. It features item stacking, storing items in chests, and saving. It utilizes a data table for the item information, and utilizes automated testing to verify the inventory system is working as intended.

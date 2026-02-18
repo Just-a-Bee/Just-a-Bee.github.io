@@ -2,6 +2,7 @@
 date = '2025-11-06T13:05:00+01:00'
 draft = false
 title = 'Planet Amvlys Playtest'
+tags = ['Unreal Engine 5']
 +++
 
 This week we held a playtest for our Game Studio 3 project! We had twelve players try a demo of our game and answer a feedback survey. The goal of this is to inform our further development based on player feedback and identify issues to resolve.
