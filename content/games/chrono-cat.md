@@ -2,7 +2,6 @@
 date = '2024-04-06T11:31:36+01:00'
 draft = false
 title = 'Chrono Cat'
-tags = ['Godot', 'Open Source']
 +++
 ## Overview
 Chrono Cat was made as a small personal project in 2024

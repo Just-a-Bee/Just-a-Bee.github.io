@@ -2,7 +2,6 @@
 date = '2023-07-09T11:43:54+01:00'
 draft = false
 title = "Papa's Pizza Eater"
-tags = ['Godot', 'Open Source']
 +++
 ## Overview
 

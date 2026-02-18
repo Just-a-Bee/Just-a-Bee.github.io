@@ -2,7 +2,6 @@
 date = '2025-10-24T13:05:00+01:00'
 draft = false
 title = 'Starting my Game Studio Project'
-tags = ['Unreal Engine 5']
 +++
 
 Recently I've started working on my Game Studio 3 project for my university course. I'm working with an amazing group and very excited to be coming together to make a game.
