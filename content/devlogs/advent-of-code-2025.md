@@ -2,6 +2,7 @@
 date = '2025-12-31T13:05:00+01:00'
 draft = false
 title = 'Advent of Code 2025'
+tags = ["C++"]
 +++
 
 I participated in Avent of Code this year! I used C++ for my solutions as I am most familiar with it. I solved 19/24 of the puzzles in the end. 
