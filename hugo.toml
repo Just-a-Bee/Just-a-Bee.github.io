@@ -92,4 +92,4 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [taxonomies]
     series = 'series'
-    tags = 'Godot', 'Unreal Engine 5', 'C++', 'Finished', 'WIP', 'Open Source'
+    tags = ['Godot', 'Unreal Engine 5', 'C++', 'Finished', 'WIP', 'Open Source']
