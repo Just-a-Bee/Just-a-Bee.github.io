@@ -6,8 +6,36 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 13:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 11:43:25 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mirari</title>
+      <link>http://localhost:1313/games/ukie-2026/</link>
+      <pubDate>Tue, 03 Mar 2026 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/ukie-2026/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Mirari was made for the Ukie Student Game Jam 2026 in 32 hours.&lt;/p&gt;&#xA;&lt;p&gt;Based on the theme Symmetry we made a Sokoban-style puzzle game where you play as a mirror where instead of pushing boxes, you can reflect them to the other side of yourself. This leads to unique puzzle designs where positioning and distances are very important. There are also some additional mechanics you will discover as you play.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching a Godot Seminar</title>
+      <link>http://localhost:1313/devlogs/godot-seminar/</link>
+      <pubDate>Wed, 18 Feb 2026 13:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/devlogs/godot-seminar/</guid>
+      <description>&lt;h2 id=&#34;the-class&#34;&gt;The Class&lt;/h2&gt;&#xA;&lt;p&gt;This week I taught a Godot Seminar to my classmates at Uni!&lt;/p&gt;&#xA;&lt;p&gt;We have the Ukie Game Jam coming up, and I noticed a lot of people we interested in learning Godot to prepare, so I volunteered to teach a class. The goal was to get everyone familiar with basic Godot concepts, like the scene tree, GDScript, and the physics system.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-game&#34;&gt;The Game&lt;/h2&gt;&#xA;&lt;p&gt;For this seminar, I prepared a very simple platformer game and had students follow along as I recreated it. The game featured player movement, a level made with a tilemap, hazards, player respawning, and a goal. We also added a title screen and animation. These elements were selected to give a good understanding of a wide array of Godot features, as well as showing best practices for using many systems.&#xA;&lt;img src=&#34;http://localhost:1313/Devlogs/Godot-Class.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unreal Engine Inventory System</title>
+      <link>http://localhost:1313/devlogs/inventory-demo/</link>
+      <pubDate>Tue, 10 Feb 2026 13:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/devlogs/inventory-demo/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This project is a demo of an inventory system implemented in UE5 using C++. It features item stacking, storing items in chests, and saving. It utilizes a data table for the item information, and utilizes automated testing to verify the inventory system is working as intended.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Devlogs/InventoryDemo/inventory_gif.gif&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;&#xA;&lt;p&gt;The inventory is implemented an actor component containing a map from int (index within the inventory) to an item struct. When adding an item to an inventory it&amp;rsquo;s placed at the first empty index, or stacked with any matching item within the inventory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unreal Engine Skill Tree</title>
+      <link>http://localhost:1313/devlogs/game-studio-skill-tree/</link>
+      <pubDate>Tue, 10 Feb 2026 13:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/devlogs/game-studio-skill-tree/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve added a skill tree to my Unreal Engine project where the player can unlock various upgrades. Each item features its own tree with unique options to allow for unique player expression.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Clicking on an item in the inventory screen opens its skill tree. From here the player can select upgrades and unlock them for a specific cost. There is support for upgrades that are only available after purchasing the ones before them, as well as upgrades that are incompatible with each other, where only one of them can be purchased.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Advent of Code 2025</title>
       <link>http://localhost:1313/devlogs/advent-of-code-2025/</link>
@@ -27,27 +55,34 @@
       <link>http://localhost:1313/devlogs/game-studio-1/</link>
       <pubDate>Fri, 24 Oct 2025 13:05:00 +0100</pubDate>
       <guid>http://localhost:1313/devlogs/game-studio-1/</guid>
-      <description>&lt;p&gt;Recently I&amp;rsquo;ve started working on my Game Studio 3 project for my university course. I&amp;rsquo;m working with an amazing group and very excited to be coming together to make a game.&lt;/p&gt;&#xA;&lt;p&gt;The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&amp;rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve started working on my Game Studio 3 project for my university course. I&amp;rsquo;m working with an amazing group and very excited to be coming together to make a game.&lt;/p&gt;&#xA;&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;&#xA;&lt;p&gt;The concept we settled on is a First-Person Metroidvania inspired by Metroid Prime, but taking notes from more modern shooters like Ultrakill, and Metroidvanias like Hollow Knight. Currently, we&amp;rsquo;re still deep in the ideas stage, coming up with enemy concepts, areas to explore, and upgrades, as well as writing the story.&lt;/p&gt;</description>
     </item>
     <item>
       <title>void loop()</title>
-      <link>http://localhost:1313/jams/void_loop/</link>
+      <link>http://localhost:1313/games/void_loop/</link>
       <pubDate>Fri, 08 Aug 2025 11:43:25 +0100</pubDate>
-      <guid>http://localhost:1313/jams/void_loop/</guid>
+      <guid>http://localhost:1313/games/void_loop/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Tank Game</title>
+      <link>http://localhost:1313/games/tank-game/</link>
+      <pubDate>Fri, 02 May 2025 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/tank-game/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This is a C++ only project made using the Raylib graphics library.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project was to practice C++ development and make a 3D game without relying on a game engine. To accomplish this, I followed &lt;a href=&#34;https://refactoring.guru/design-patterns&#34; target=&#34;_blank&#34;&gt;design patterns&lt;/a&gt; such as using a state machine to handle the main game loop, and using the strategy pattern to add behavior to my actors in-game. I also had to implement an actor manager that process and draws the game objects each frame, as well as a physics system, and A* pathfinding.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Bigfoots Big Break</title>
-      <link>http://localhost:1313/jams/bigfoots-big-break/</link>
+      <link>http://localhost:1313/games/bigfoots-big-break/</link>
       <pubDate>Wed, 15 Jan 2025 11:43:37 +0100</pubDate>
-      <guid>http://localhost:1313/jams/bigfoots-big-break/</guid>
+      <guid>http://localhost:1313/games/bigfoots-big-break/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Bigfoot&amp;rsquo;s Big Break was made in three days for the GoedWare Game Jam Limited Color Palette in January 2025.&lt;/p&gt;&#xA;&lt;p&gt;Based on the theme &amp;ldquo;Two points of view&amp;rdquo;, you are venturing into the woods in search of Bigfoot. Equipped with your trusty camera drone, you can look around the forest yourself and get a bird&amp;rsquo;s-eye view. Track down Bigfoot and snap some pictures for the newspaper.&lt;/p&gt;&#xA;&lt;p&gt;It placed 11th out of 83 entries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Banana For Scale Inc.</title>
-      <link>http://localhost:1313/jams/banana_for_scale_inc/</link>
+      <link>http://localhost:1313/games/banana_for_scale_inc/</link>
       <pubDate>Tue, 20 Aug 2024 11:43:25 +0100</pubDate>
-      <guid>http://localhost:1313/jams/banana_for_scale_inc/</guid>
+      <guid>http://localhost:1313/games/banana_for_scale_inc/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Banana For Scale Inc. was made for the GMTK Game Jam 2024 in two days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Built to Scale&amp;rdquo;, the player works for a banana sizing company. You are tasked with adding bananas of the right size to various images, from a still life painting, to my real life pantry. Help the company rise to untold riches by accurately placing bananas.&lt;/p&gt;&#xA;&lt;p&gt;It placed 270th out of 7,573 entries.&lt;/p&gt;</description>
     </item>
     <item>
@@ -59,9 +94,9 @@
     </item>
     <item>
       <title>Papa&#39;s Pizza Eater</title>
-      <link>http://localhost:1313/jams/papas-pizza-eater/</link>
+      <link>http://localhost:1313/games/papas-pizza-eater/</link>
       <pubDate>Sun, 09 Jul 2023 11:43:54 +0100</pubDate>
-      <guid>http://localhost:1313/jams/papas-pizza-eater/</guid>
+      <guid>http://localhost:1313/games/papas-pizza-eater/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Papa&amp;rsquo;s Pizza Eater was made in two days for the GMTK Game Jam 2023.&lt;/p&gt;&#xA;&lt;p&gt;The theme &amp;ldquo;Roles Reversed&amp;rdquo; inspired this parody of the Papa&amp;rsquo;s Pizzeria series. Run a pizza-eating store, where customers tell you what parts of their pizza they want eaten. Collect tip money, and buy upgrades to improve your pizza eating abilities. Will you earn the #1 pizza eater trophy?&lt;/p&gt;&#xA;&lt;p&gt;It placed 2,452th out of 6,719 entries.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -15,7 +15,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     dark_mode = false                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
-    front_page_content = ["games", "jams"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    front_page_content = ["games", "devlogs"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -26,7 +26,6 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Games", URL = "/games/", HasChildren = true, Limit = 5},
-        {Name = "Jams", URL = "/jams/", HasChildren = true, Limit = 5},
 	{Name = "Devlogs", URL = "/devlogs/", HasChildren = true, Limit = 5},
     ]
 

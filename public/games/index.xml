@@ -6,14 +6,56 @@
     <description>Recent content in Games on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2024 11:31:36 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 11:43:25 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mirari</title>
+      <link>http://localhost:1313/games/ukie-2026/</link>
+      <pubDate>Tue, 03 Mar 2026 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/ukie-2026/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Mirari was made for the Ukie Student Game Jam 2026 in 32 hours.&lt;/p&gt;&#xA;&lt;p&gt;Based on the theme Symmetry we made a Sokoban-style puzzle game where you play as a mirror where instead of pushing boxes, you can reflect them to the other side of yourself. This leads to unique puzzle designs where positioning and distances are very important. There are also some additional mechanics you will discover as you play.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>void loop()</title>
+      <link>http://localhost:1313/games/void_loop/</link>
+      <pubDate>Fri, 08 Aug 2025 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/void_loop/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tank Game</title>
+      <link>http://localhost:1313/games/tank-game/</link>
+      <pubDate>Fri, 02 May 2025 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/tank-game/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This is a C++ only project made using the Raylib graphics library.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project was to practice C++ development and make a 3D game without relying on a game engine. To accomplish this, I followed &lt;a href=&#34;https://refactoring.guru/design-patterns&#34; target=&#34;_blank&#34;&gt;design patterns&lt;/a&gt; such as using a state machine to handle the main game loop, and using the strategy pattern to add behavior to my actors in-game. I also had to implement an actor manager that process and draws the game objects each frame, as well as a physics system, and A* pathfinding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bigfoots Big Break</title>
+      <link>http://localhost:1313/games/bigfoots-big-break/</link>
+      <pubDate>Wed, 15 Jan 2025 11:43:37 +0100</pubDate>
+      <guid>http://localhost:1313/games/bigfoots-big-break/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Bigfoot&amp;rsquo;s Big Break was made in three days for the GoedWare Game Jam Limited Color Palette in January 2025.&lt;/p&gt;&#xA;&lt;p&gt;Based on the theme &amp;ldquo;Two points of view&amp;rdquo;, you are venturing into the woods in search of Bigfoot. Equipped with your trusty camera drone, you can look around the forest yourself and get a bird&amp;rsquo;s-eye view. Track down Bigfoot and snap some pictures for the newspaper.&lt;/p&gt;&#xA;&lt;p&gt;It placed 11th out of 83 entries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Banana For Scale Inc.</title>
+      <link>http://localhost:1313/games/banana_for_scale_inc/</link>
+      <pubDate>Tue, 20 Aug 2024 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/banana_for_scale_inc/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Banana For Scale Inc. was made for the GMTK Game Jam 2024 in two days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Built to Scale&amp;rdquo;, the player works for a banana sizing company. You are tasked with adding bananas of the right size to various images, from a still life painting, to my real life pantry. Help the company rise to untold riches by accurately placing bananas.&lt;/p&gt;&#xA;&lt;p&gt;It placed 270th out of 7,573 entries.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Chrono Cat</title>
       <link>http://localhost:1313/games/chrono-cat/</link>
       <pubDate>Sat, 06 Apr 2024 11:31:36 +0100</pubDate>
       <guid>http://localhost:1313/games/chrono-cat/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Chrono Cat was made as a small personal project in 2024&lt;/p&gt;&#xA;&lt;p&gt;Chrono cat is a short Sokoban-Style puzzle game inspired by games like Baba is You. It features a unique &amp;ldquo;rewind&amp;rdquo; mechanic which allows you to send objects back in time. Can you help Chrono Cat take a nap in all five levels?&lt;/p&gt;&#xA;&lt;p&gt;This is my most polished project, with a focus on a clean user experience, smooth animations, and quality of life features like saved progress and a settings menu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Papa&#39;s Pizza Eater</title>
+      <link>http://localhost:1313/games/papas-pizza-eater/</link>
+      <pubDate>Sun, 09 Jul 2023 11:43:54 +0100</pubDate>
+      <guid>http://localhost:1313/games/papas-pizza-eater/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Papa&amp;rsquo;s Pizza Eater was made in two days for the GMTK Game Jam 2023.&lt;/p&gt;&#xA;&lt;p&gt;The theme &amp;ldquo;Roles Reversed&amp;rdquo; inspired this parody of the Papa&amp;rsquo;s Pizzeria series. Run a pizza-eating store, where customers tell you what parts of their pizza they want eaten. Collect tip money, and buy upgrades to improve your pizza eating abilities. Will you earn the #1 pizza eater trophy?&lt;/p&gt;&#xA;&lt;p&gt;It placed 2,452th out of 6,719 entries.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
