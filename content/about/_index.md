@@ -3,8 +3,10 @@ date = '2025-04-03T11:29:58+01:00'
 draft = false
 title = 'About'
 +++
-{{< youtube FvcfZQBXfGs >}}
 I'm a third year BSc Games Programming student at the University of East London predicted to graduate with a First, with a focus on Gameplay Programming. I'm a dedicated developer with a lot of experience in Godot, Unreal Engine, and C++ programming. I also have a Associate's Degree in Computer Science from Howard Community College.
+
+## Showreel
+{{< youtube FvcfZQBXfGs >}}
 
 ## Experience
 Most of my Unreal Engine experience is with my uni coursework. From [making an inventory system](/devlogs/inventory-demo) to [developing a full-scale indie game](/devlogs/game-studio-1) I have a lot of good stuff to show. I'm most proficient when it comes to gameplay systems, such as inventories, game saving, and character progression. I also have done a lot of UI programming to go with these features. I love working on clean systems that feel seamless to the user experience.
