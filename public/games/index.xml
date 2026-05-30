@@ -6,8 +6,15 @@
     <description>Recent content in Games on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 11:43:25 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 11:43:25 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planet Amvlys</title>
+      <link>http://localhost:1313/games/planet-amvlys/</link>
+      <pubDate>Sat, 23 May 2026 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/planet-amvlys/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Planet Amvlys was created as part of my Games Programming course at the University of East London. I was the lead programmer in an interdisciplinary team of students who produced this game in Unreal Engine 5 from September 2025 - May 2026.&lt;/p&gt;&#xA;&lt;p&gt;My work was focused on gameplay systems programming, while also covering UI and audio programming. I created all menus, player abilities, progression systems, puzzle elements, the cutscene system, the save/load system and more. Overall, I learned a lot about team management, and full-scale UE5 development on this project.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mirari</title>
       <link>http://localhost:1313/games/ukie-2026/</link>

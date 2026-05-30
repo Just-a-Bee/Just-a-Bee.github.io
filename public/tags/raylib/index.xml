@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raylib on </title>
+    <link>http://localhost:1313/tags/raylib/</link>
+    <description>Recent content in Raylib on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2026 13:05:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/raylib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing Advanced Strategy AI</title>
+      <link>http://localhost:1313/devlogs/dissertation/</link>
+      <pubDate>Sat, 23 May 2026 13:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/devlogs/dissertation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For my Games Programming dissertation at the University of East London, I made a strategy game demo that features an advanced enemy AI. The goal of this project was to make multiple AI opponents in a tactics strategy game with imperfect information (fog-of-war prevents players from seeing their opponents actions). I then be conducted a playtest against human players to test the skill level of the AI opponents. This will determine which AI&amp;rsquo;s strategy is the most effective, and how effective it is.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
