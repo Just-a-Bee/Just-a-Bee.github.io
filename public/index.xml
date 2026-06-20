@@ -16,6 +16,13 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For my Games Programming dissertation at the University of East London, I made a strategy game demo that features an advanced enemy AI. The goal of this project was to make multiple AI opponents in a tactics strategy game with imperfect information (fog-of-war prevents players from seeing their opponents actions). I then be conducted a playtest against human players to test the skill level of the AI opponents. This will determine which AI&amp;rsquo;s strategy is the most effective, and how effective it is.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Deathbeds Prototype</title>
+      <link>http://localhost:1313/games/deathbeds-prototype/</link>
+      <pubDate>Sat, 23 May 2026 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/deathbeds-prototype/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Deathbeds is an isometric wave survival game made in Unreal Engine 5 that I am working on as a freelance programmer. This prototype was made in 1 week to demonstrate the basic idea for the game.&lt;/p&gt;&#xA;&lt;p&gt;As the sole programmer on the project I am responsible for all technical systems design and implementation. This includes an inventory/upgrades system, tank character controllers, enemy AI and pathfinding, wave spawning, and more. While this version is a simple prototype, there are more features planned for the finished game that I will continue developing.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Planet Amvlys</title>
       <link>http://localhost:1313/games/planet-amvlys/</link>
       <pubDate>Sat, 23 May 2026 11:43:25 +0100</pubDate>
@@ -112,13 +119,6 @@
       <pubDate>Sun, 09 Jul 2023 11:43:54 +0100</pubDate>
       <guid>http://localhost:1313/games/papas-pizza-eater/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Papa&amp;rsquo;s Pizza Eater was made in two days for the GMTK Game Jam 2023.&lt;/p&gt;&#xA;&lt;p&gt;The theme &amp;ldquo;Roles Reversed&amp;rdquo; inspired this parody of the Papa&amp;rsquo;s Pizzeria series. Run a pizza-eating store, where customers tell you what parts of their pizza they want eaten. Collect tip money, and buy upgrades to improve your pizza eating abilities. Will you earn the #1 pizza eater trophy?&lt;/p&gt;&#xA;&lt;p&gt;It placed 2,452th out of 6,719 entries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

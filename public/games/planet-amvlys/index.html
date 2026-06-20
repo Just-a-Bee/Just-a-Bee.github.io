@@ -198,6 +198,14 @@
             
                 
                 
+                    <li class="heading">
+                        <a href="/about/">About</a>
+                    </li>
+                    
+                
+            
+                
+                
             
                 
                 
@@ -229,6 +237,9 @@
             
                 
                 
+            
+                
+                
                     <li class="heading">
                         <a href="/games/">Games</a>
                     </li>
@@ -236,6 +247,10 @@
                         <li class="sub-heading">
                             
                         </li>
+                        
+                            <li class="bullet">
+                                <a href="http://localhost:1313/games/deathbeds-prototype/">Deathbeds Prototype</a>
+                            </li>
                         
                             <li class="bullet">
                                 <a href="http://localhost:1313/games/planet-amvlys/">Planet Amvlys</a>
@@ -293,6 +308,9 @@
         
             
 
+            
+                
+                
             
                 
                 
@@ -453,11 +471,19 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
   <h2 id="overview">Overview</h2>
 <p>Planet Amvlys was created as part of my Games Programming course at the University of East London. I was the lead programmer in an interdisciplinary team of students who produced this game in Unreal Engine 5 from September 2025 - May 2026.</p>
 <p>My work was focused on gameplay systems programming, while also covering UI and audio programming. I created all menus, player abilities, progression systems, puzzle elements, the cutscene system, the save/load system and more. Overall, I learned a lot about team management, and full-scale UE5 development on this project.</p>
+
+<iframe frameborder="0" src="https://itch.io/embed/4548549?bg_color=a6ff6c&amp;fg_color=222222&amp;link_color=5c5bfa&amp;border_color=4b623a" width="552" height="167"><a href="https://just-a-bee.itch.io/planet-amvlys">Planet Amvlys (Demo) by Just a Bee, bakerboy16</a></iframe>
 <h2 id="gameplay">Gameplay</h2>
-<p>PUT SCREENSHOTS AND STUFF</p>
+<p><img src="/Amvlys/title.png" alt="image">
+<img src="/Amvlys/level.png" alt="image">
+Explore the mysterious planet</p>
+<p><img src="/Amvlys/upgrades.png" alt="image">
+Unlock unique upgrades</p>
+<p><img src="/Amvlys/boss.png" alt="image">
+Fight threatening bosses</p>
 <h2 id="code">Code</h2>
 <p>On this project I created an &ldquo;Activators&rdquo; system. Actors with the &ldquo;Activator&rdquo; component can be used to affect &ldquo;Activated&rdquo; actors, such as doors, cutscene triggers, elevators, or moving platforms.</p>
-<p>PUT EXAMPLE GIF</p>
+<p><img src="/Amvlys/activator.GIF" alt="image"></p>
 <p>On Begin Play, the activated component iterates over it&rsquo;s activators, binding their status changed event to an event dispatcher. Then, whenever an activator&rsquo;s status changes the activated component is notified and can change its status accordingly. Because this system is based in composition, these behaviours can be applied to any object. A moving platform can activate only while the player is in a certain area, or a door can only open when all four buttons are pressed, or anything else that requires multiple actors to send simple signals to each other in this way.</p>
 <p>I developed this system to make it easy for my level designer to create unique environmental puzzles with drag-and-drop components and instance editable variables. No code necessary! This allowed for faster iteration times during level design, as well as designers making complex puzzles in levels without programmer assistance.</p>
 <h2 id="feedback">Feedback</h2>
@@ -465,7 +491,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 After our first playtest I added &ldquo;Coyote Time&rdquo; to the player character, which allows jumping for a short time after walking off a ledge. This prevents players from falling when they press the jump button just a bit too late. Then, a bug was discovered: pressing jump twice in quick succession lead to a normal jump, followed by a coyote time jump, gaining extra height. To fix this, I prevented the activation of coyote time when leaving the ground after jumping.
 Many other issues were identified and solved thanks to playtest feedback, and most playtesters enjoyed the gameplay.</p>
 <h2 id="further-development">Further Development</h2>
-<p>We are continuing development on this game for some time, so it is not released quite yet. We&rsquo;re planning to submit to the <a href="https://gamebridge.uk/" target="_blank">Gamebridge</a>showcase in June, which I am very excited for.</p>
+<p>We are continuing development on this game for some time, so it is not released quite yet. We&rsquo;re planning to submit to the <a href="https://gamebridge.uk/" target="_blank">Gamebridge</a> showcase in June, which I am very excited for.</p>
 <h2 id="credits">Credits</h2>
 <p>Created by <a href="/about/">Abby Smith</a>, Ben Baker, Taylor Webb, Stephen Liu, Shaynun-Nakai Grant, and Narcis Ghiocel</p>
 
@@ -477,6 +503,10 @@ Many other issues were identified and solved thanks to playtest feedback, and mo
             <a class="previous-post" href="http://localhost:1313/games/ukie-2026/?ref=footer"><span style="font-weight:bold;">« Previous</span><br>Mirari</a>
         
 	    
+            <div class="next-post">
+                <a href="http://localhost:1313/games/deathbeds-prototype/?ref=footer"><span style="font-weight:bold;">Next »</span><br>Deathbeds Prototype</a>
+            </div>
+        
     
 </div>
 

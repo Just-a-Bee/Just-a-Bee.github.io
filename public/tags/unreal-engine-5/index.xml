@@ -9,11 +9,18 @@
     <lastBuildDate>Sat, 23 May 2026 11:43:25 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/unreal-engine-5/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Deathbeds Prototype</title>
+      <link>http://localhost:1313/games/deathbeds-prototype/</link>
+      <pubDate>Sat, 23 May 2026 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/deathbeds-prototype/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Deathbeds is an isometric wave survival game made in Unreal Engine 5 that I am working on as a freelance programmer. This prototype was made in 1 week to demonstrate the basic idea for the game.&lt;/p&gt;&#xA;&lt;p&gt;As the sole programmer on the project I am responsible for all technical systems design and implementation. This includes an inventory/upgrades system, tank character controllers, enemy AI and pathfinding, wave spawning, and more. While this version is a simple prototype, there are more features planned for the finished game that I will continue developing.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Planet Amvlys</title>
       <link>http://localhost:1313/games/planet-amvlys/</link>
       <pubDate>Sat, 23 May 2026 11:43:25 +0100</pubDate>
       <guid>http://localhost:1313/games/planet-amvlys/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Planet Amvlys was created as part of my Games Programming course at the University of East London. I worked with a team of students to produce this game in Unreal Engine from September 2025 - May 2026.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;Created by &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Abby Smith&lt;/a&gt;, Ben Baker, Taylor Webb, Stephen Liu, Shaynun-Nakai Grant, and Narcis Ghiocel&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Planet Amvlys was created as part of my Games Programming course at the University of East London. I was the lead programmer in an interdisciplinary team of students who produced this game in Unreal Engine 5 from September 2025 - May 2026.&lt;/p&gt;&#xA;&lt;p&gt;My work was focused on gameplay systems programming, while also covering UI and audio programming. I created all menus, player abilities, progression systems, puzzle elements, the cutscene system, the save/load system and more. Overall, I learned a lot about team management, and full-scale UE5 development on this project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unreal Engine Inventory System</title>

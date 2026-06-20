@@ -1,6 +1,6 @@
 +++
 date = '2026-05-23T11:43:25+01:00'
-draft = true
+draft = false
 title = 'Planet Amvlys'
 tags = ['Unreal Engine 5']
 +++
@@ -10,15 +10,24 @@ tags = ['Unreal Engine 5']
 Planet Amvlys was created as part of my Games Programming course at the University of East London. I was the lead programmer in an interdisciplinary team of students who produced this game in Unreal Engine 5 from September 2025 - May 2026.
 
 My work was focused on gameplay systems programming, while also covering UI and audio programming. I created all menus, player abilities, progression systems, puzzle elements, the cutscene system, the save/load system and more. Overall, I learned a lot about team management, and full-scale UE5 development on this project.
+
+{{< include-html "static/html/amvlys-widget.html" >}}
 ## Gameplay
 
-PUT SCREENSHOTS AND STUFF
+![image](/Amvlys/title.png)
+![image](/Amvlys/level.png)
+Explore the mysterious planet
 
+![image](/Amvlys/upgrades.png)
+Unlock unique upgrades
+
+![image](/Amvlys/boss.png)
+Fight threatening bosses
 ## Code
 
 On this project I created an "Activators" system. Actors with the "Activator" component can be used to affect "Activated" actors, such as doors, cutscene triggers, elevators, or moving platforms. 
 
-PUT EXAMPLE GIF
+![image](/Amvlys/activator.GIF)
 
 On Begin Play, the activated component iterates over it's activators, binding their status changed event to an event dispatcher. Then, whenever an activator's status changes the activated component is notified and can change its status accordingly. Because this system is based in composition, these behaviours can be applied to any object. A moving platform can activate only while the player is in a certain area, or a door can only open when all four buttons are pressed, or anything else that requires multiple actors to send simple signals to each other in this way.
 
@@ -32,7 +41,7 @@ Many other issues were identified and solved thanks to playtest feedback, and mo
 
 ## Further Development
 
-We are continuing development on this game for some time, so it is not released quite yet. We're planning to submit to the [Gamebridge](https://gamebridge.uk/)showcase in June, which I am very excited for.
+We are continuing development on this game for some time, so it is not released quite yet. We're planning to submit to the [Gamebridge](https://gamebridge.uk/) showcase in June, which I am very excited for.
 
 ## Credits
 Created by [Abby Smith](/about/), Ben Baker, Taylor Webb, Stephen Liu, Shaynun-Nakai Grant, and Narcis Ghiocel

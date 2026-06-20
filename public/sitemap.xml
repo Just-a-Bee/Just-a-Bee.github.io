@@ -20,6 +20,9 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-05-23T13:05:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/games/deathbeds-prototype/</loc>
+    <lastmod>2026-05-23T11:43:25+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/games/</loc>
     <lastmod>2026-05-23T11:43:25+01:00</lastmod>
   </url><url>
@@ -62,6 +65,9 @@
     <loc>http://localhost:1313/games/tank-game/</loc>
     <lastmod>2025-05-02T11:43:25+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-04-03T11:29:58+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/games/bigfoots-big-break/</loc>
     <lastmod>2025-01-15T11:43:37+01:00</lastmod>
   </url><url>
@@ -73,8 +79,6 @@
   </url><url>
     <loc>http://localhost:1313/games/papas-pizza-eater/</loc>
     <lastmod>2023-07-09T11:43:54+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url>
