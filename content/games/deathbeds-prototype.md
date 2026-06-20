@@ -29,7 +29,7 @@ The main goals when implementing this system were to keep the code lightweight a
 
 To support this, items are stored as the structure "S_Item", which only has two members: its Rarity (E_Rarities) and its Type (E_ItemTypes). These two values can be used to retrieve an "S_ItemData" structure, which contains information like the item's Name, Description, and Icon. These Item Data values are stored in a Data Table, so that any developer can easily change things like an item's name, or the icon it shows in the inventory. This table also stores the Value of each item, which represents how effective it is (e.g. a Health Increase item with a value of 1.5 multiplies the player's health by 1.5), allowing designers to balance item effectiveness without going deep into any code or blueprints.
 
-![image](/Deathbeds/data.PNG)
+![image](/Deathbeds/Data.PNG)
 
 This system is very effective for the needs of the project. It's lightweight and allows for easy creation of new items, and makes it easy for other developers to collaborate in making unique content for Deathbeds.
 ## Further Development
