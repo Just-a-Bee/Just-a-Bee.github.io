@@ -447,7 +447,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
           
         
 
-        <span>2 mins read</span>
+        <span>1 min read</span>
       </span>
     </div>
 
@@ -462,6 +462,10 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
         <a href="http://localhost:1313/tags/c&#43;&#43;">C&#43;&#43;</a>
       </li>
       
+      <li class="tag-Open Source">
+        <a href="http://localhost:1313/tags/open-source">Open Source</a>
+      </li>
+      
     </ul>
     
   </div>
@@ -473,12 +477,10 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 </div>
 
   <h2 id="overview">Overview</h2>
-<p>For my Games Programming dissertation at the University of East London, I made a strategy game demo that features an advanced enemy AI. The goal of this project was to make multiple AI opponents in a tactics strategy game with imperfect information (fog-of-war prevents players from seeing their opponents actions). I then be conducted a playtest against human players to test the skill level of the AI opponents. This will determine which AI&rsquo;s strategy is the most effective, and how effective it is.</p>
-<h2 id="castle-conquest">Castle Conquest</h2>
-<p><img src="/Devlogs/Diss/diss-image-1.PNG" alt="image">
-The game features multiple units to command, castles to take over, and a system for buying new units to expand your army. The aim of this design is to create a game that is complicated enough to allow for varied strategies, but simple enough to be understood by new players.</p>
-<h2 id="the-ai">The AI</h2>
-<p>There are two completed AI players for this game. I aimed to complete much more advanced AI agents, but the game had a much more complicated decision space than anticipated, so simpler AI became the way to go. The first finished AI uses Minimax, which scores each potential action and picks the best one. Afterwards I implemented Hierarchical Portfolio Search, which selects good actions based on &ldquo;partial player&rdquo; strategies, then picks the best combination of those actions. You can read more about this in <a href="/Devlogs/Diss/AI-Dissertation.pdf">the full paper</a>.</p>
+<p>For my Games Programming dissertation at the University of East London, I made a strategy game demo that features an advanced enemy AI. The goal of this project was to make multiple AI opponents in a tactics strategy game with imperfect information (fog-of-war prevents players from seeing their opponents actions). I then be conducted a playtest against human players to test the skill level of the AI opponents. This determined which AI&rsquo;s strategy is the most effective, and how effective it is.</p>
+<p>In the end I had two separate AI strategies. One using Minimax (Scoring each potential move and choosing the highest scoring option) and one using Hierarchical Portfolio Search, which performed a deeper search on combinations of moves. The optimizations required to perform this deeper search involved pruning a large number of moves and not considering them at all. This resulted in the HPS AI performing worse as it would often miss very good moves in favor of the just-okay moves it considered.</p>
+<h2 id="read-the-full-paper"><a href="/Devlogs/Diss/AI-Dissertation.pdf">Read the full paper</a></h2>
+<h2 id="download-the-playtest-game"><a href="/Devlogs/Diss/StrategyDemo.zip">Download the playtest game</a></h2>
 <h2 id="code">Code</h2>
 <p><a href="https://github.com/Abby-Smith-UEL/stategydemo" target="_blank">The code is available on my University Github Page</a></p>
 
@@ -504,8 +506,8 @@ The game features multiple units to command, castles to take over, and a system 
       <nav id="TableOfContents">
   <ul>
     <li><a href="#overview">Overview</a></li>
-    <li><a href="#castle-conquest">Castle Conquest</a></li>
-    <li><a href="#the-ai">The AI</a></li>
+    <li><a href="#read-the-full-paper">Read the full paper</a></li>
+    <li><a href="#download-the-playtest-game">Download the playtest game</a></li>
     <li><a href="#code">Code</a></li>
   </ul>
 </nav>

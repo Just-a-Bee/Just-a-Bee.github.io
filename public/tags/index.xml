@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+      <pubDate>Sat, 23 May 2026 13:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Raylib</title>
       <link>http://localhost:1313/tags/raylib/</link>
       <pubDate>Sat, 23 May 2026 13:05:00 +0100</pubDate>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/tags/godot/</link>
       <pubDate>Tue, 03 Mar 2026 11:43:25 +0100</pubDate>
       <guid>http://localhost:1313/tags/godot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Open Source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
-      <pubDate>Wed, 31 Dec 2025 13:05:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/open-source/</guid>
       <description></description>
     </item>
   </channel>

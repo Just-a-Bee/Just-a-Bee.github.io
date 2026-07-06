@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Jam on </title>
+    <link>http://localhost:1313/tags/game-jam/</link>
+    <description>Recent content in Game Jam on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Aug 2025 11:43:25 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/game-jam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>void loop()</title>
+      <link>http://localhost:1313/games/void_loop/</link>
+      <pubDate>Fri, 08 Aug 2025 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/void_loop/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;void loop() was made for the GMTK Game Jam 2025 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Loop&amp;rdquo; the player is tasked with stopping a recursive function call before The Program crashes. The game is set inside a computer program where you play as Integer and fight your way through a random series of rooms. After each room, you add a line of code to the recursive function to improve your chances of winning.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 date = '2025-08-08T11:43:25+01:00'
 draft = false
 title = 'void loop()'
-tags = ['Godot', 'Open Source']
+tags = ['Godot', 'Open Source', 'Game Jam']
 +++
 
 ## Overview

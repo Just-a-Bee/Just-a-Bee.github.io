@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c357ec1c288c612",
+        "id": "229227b0b9432b2a",
         "type": "tabs",
         "children": [
           {
-            "id": "415a814a7a191dc8",
+            "id": "4421bce17dba7391",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devlogs/dissertation.md",
+                "file": "about/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dissertation"
+              "title": "_index"
             }
           }
         ]
@@ -183,11 +183,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "415a814a7a191dc8",
+  "active": "4421bce17dba7391",
   "lastOpenFiles": [
+    "games/ukie-2026.md",
+    "games/void_loop.md",
+    "games/banana_for_scale_inc.md",
+    "games/bigfoots-big-break.md",
+    "games/chrono-cat.md",
+    "games/deathbeds-prototype.md",
+    "games/papas-pizza-eater.md",
+    "games/tank-game.md",
+    "about/_index.md",
+    "devlogs.md",
+    "devlogs/game-studio-1.md",
+    "devlogs/dissertation.md",
+    "devlogs/advent-of-code-2025.md",
+    "Devlogs/Diss/AI-Dissertation.pdf.md",
+    "devlogs/Diss/AI-Dissertation.pdf.md",
+    "devlogs/Diss",
+    "Devlogs/Diss",
+    "devlogs/inventory-demo.md",
+    "devlogs/game-studio-skill-tree.md",
+    "devlogs/game-studio-playtest.md",
     "games/planet-amvlys.md",
     "about.md",
-    "devlogs/dissertation.md",
     "games/Untitled.md"
   ]
 }

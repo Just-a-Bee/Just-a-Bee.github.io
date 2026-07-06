@@ -2,7 +2,7 @@
 date = '2024-08-20T11:43:25+01:00'
 draft = false
 title = 'Banana For Scale Inc.'
-tags = ['Godot', 'Open Source']
+tags = ['Godot', 'Open Source', 'Game Jam']
 +++
 
 ## Overview
