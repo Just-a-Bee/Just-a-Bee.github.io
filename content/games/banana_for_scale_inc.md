@@ -16,7 +16,7 @@ It placed 270th out of 7,573 entries.
 {{< include-html "static/html/banana-widget.html" >}}
 
 ## Gameplay
-At Banana For Scale Inc. where accuracy is our #1 priority.
+Welcome to Banana For Scale Inc. where accuracy is our #1 priority.
 
 Work on original Banana Instruments hardware
 ![image](/Banana/Boot.png)
@@ -29,7 +29,6 @@ Track your performance
 
 
 ## Credits
-Created by [Abby Smith](/about/)
- and [Isaiah Sugar](http://isaiahsugar.com) using [Godot Game Engine](https://godotengine.org/license), with voice acting from Ariana Fernandez
+Created by [Abby Smith](/about/) and [Isaiah Sugar](http://isaiahsugar.com) using [Godot Game Engine](https://godotengine.org/license), with voice acting from Ariana Fernandez
 
 **[The code is available on my GitHub page](https://github.com/Just-a-Bee/banana_for_scale)**

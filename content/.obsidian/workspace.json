@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/_index.md",
+                "file": "games/gmtk-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "gmtk-2026"
             }
           }
         ]
@@ -185,15 +185,17 @@
   },
   "active": "4421bce17dba7391",
   "lastOpenFiles": [
+    "about 1.md",
+    "games/gmtk-2026.md",
+    "games/banana_for_scale_inc.md",
+    "games/deathbeds-prototype.md",
+    "games/chrono-cat.md",
+    "about/_index.md",
     "games/ukie-2026.md",
     "games/void_loop.md",
-    "games/banana_for_scale_inc.md",
     "games/bigfoots-big-break.md",
-    "games/chrono-cat.md",
-    "games/deathbeds-prototype.md",
     "games/papas-pizza-eater.md",
     "games/tank-game.md",
-    "about/_index.md",
     "devlogs.md",
     "devlogs/game-studio-1.md",
     "devlogs/dissertation.md",
@@ -206,7 +208,6 @@
     "devlogs/game-studio-skill-tree.md",
     "devlogs/game-studio-playtest.md",
     "games/planet-amvlys.md",
-    "about.md",
-    "games/Untitled.md"
+    "about.md"
   ]
 }

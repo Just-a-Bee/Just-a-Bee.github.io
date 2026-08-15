@@ -6,8 +6,15 @@
     <description>Recent content in Godot on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 11:43:25 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:43:25 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20 Minutes Till Showtime</title>
+      <link>http://localhost:1313/games/gmtk-2026/</link>
+      <pubDate>Tue, 04 Aug 2026 11:43:25 +0100</pubDate>
+      <guid>http://localhost:1313/games/gmtk-2026/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;20 Minutes Till Showtime was made for the GMTK Game Jam 2026 in four days.&lt;/p&gt;&#xA;&lt;p&gt;Following the theme &amp;ldquo;Countdown&amp;rdquo;, the player solves a mystery within a 20 minute timer. The game features multiple characters with dialogue, a system for collecting clues, and a &amp;ldquo;Timeline&amp;rdquo; menu where you place relevant clues to solve puzzles.&lt;/p&gt;&#xA;&lt;p&gt;It placed 1454th for narrative out of 10k entries.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed/4829025?bg_color=d0cca9&amp;amp;link_color=ae3b39&amp;amp;border_color=333333&#34; width=&#34;552&#34; height=&#34;167&#34;&gt;&lt;a href=&#34;https://just-a-bee.itch.io/20-minutes-to-showtime&#34;&gt;20 Minutes till Showtime by Just a Bee, bakerboy16&lt;/a&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;p&gt;Meet unique characters&#xA;&lt;img src=&#34;http://localhost:1313/Showtime/ss1.png&#34; alt=&#34;image&#34;&gt;&#xA;Search the crime scene for clues!&#xA;&lt;img src=&#34;http://localhost:1313/Showtime/ss2.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mirari</title>
       <link>http://localhost:1313/games/ukie-2026/</link>
